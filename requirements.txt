@@ -1,0 +1,4 @@
+#images2gif
+#numpy
+#Pillow
+requests
