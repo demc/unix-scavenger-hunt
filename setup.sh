@@ -8,5 +8,5 @@ pip install -r /tmp/requirements.txt
 
 echo "Setting up scripts..."
 
-wget https://raw.githubusercontent.com/demc/unix-scavenger-hunt/master/gif.py -0 gif.py
-wget https://raw.githubusercontent.com/demc/unix-scavenger-hunt/master/gifs.py -0 gifs.py
+wget https://raw.githubusercontent.com/demc/unix-scavenger-hunt/master/gif.py -O gif.py
+wget https://raw.githubusercontent.com/demc/unix-scavenger-hunt/master/gifs.py -O gifs.py
