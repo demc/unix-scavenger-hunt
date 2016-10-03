@@ -4,7 +4,7 @@ echo "Setting up requirements..."
 
 wget https://goo.gl/K7hvzs -qO /tmp/requirements.txt
 sudo apt-get -qq install python-pip -y
-pip install -r -q /tmp/requirements.txt
+pip install -q -r /tmp/requirements.txt
 
 echo "Setting up scripts..."
 
